@@ -1,6 +1,9 @@
 
 ![Rustic Minimal Wedding Print Banner](https://user-images.githubusercontent.com/79868057/165407084-aeb51e0a-ebdf-4eec-bf43-594d33193709.png)
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-YDan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danyou623/)](https://www.linkedin.com/in/danyou623/)
+[![Gmail Badge](https://img.shields.io/badge/-danyou623-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danyou623@gmail.com)](mailto:danyou623@gmail.com)
 <!--
 **yhupaul/yhupaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
