@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![Rustic Minimal Wedding Print Banner](https://user-images.githubusercontent.com/79868057/165407084-aeb51e0a-ebdf-4eec-bf43-594d33193709.png)
 
 <!--
 **yhupaul/yhupaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
