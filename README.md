@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-YDan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danyou623/)](https://www.linkedin.com/in/danyou623/)
 [![Gmail Badge](https://img.shields.io/badge/-danyou623-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danyou623@gmail.com)](mailto:danyou623@gmail.com)
-![visitors](https://visitor-badge.deta.dev/badge?page_id=page.id&left_color=red&right_color=green)
+![visitors](https://visitor-badge.deta.dev/badge?page_id=yhupaul&left_color=red&right_color=green)
 <!--
 **yhupaul/yhupaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
